@@ -1,0 +1,568 @@
+Year,Department,Gender,Salary
+1990,Marketing,M,82871
+1991,Marketing,M,86797
+1992,Marketing,M,89204
+1993,Marketing,M,92165
+1994,Marketing,M,97286
+1995,Marketing,M,99647
+1996,Marketing,M,100604
+1997,Marketing,M,101843
+1998,Marketing,M,103014
+1999,Marketing,M,101592
+2000,Marketing,M,109485
+2001,Marketing,M,113407
+1990,Marketing,M,78405
+1991,Marketing,M,81872
+1992,Marketing,M,83722
+1993,Marketing,M,85016
+1994,Marketing,M,88421
+1995,Marketing,M,91503
+1996,Marketing,M,95469
+1997,Marketing,M,97250
+1998,Marketing,M,96993
+1999,Marketing,M,101350
+2000,Marketing,M,106901
+2001,Marketing,M,109115
+2002,Marketing,M,111491
+1991,Marketing,M,81872
+1993,Marketing,F,82500
+1994,Marketing,F,83500
+1995,Marketing,F,84500
+1993,Marketing,M,85000
+1992,Marketing,F,83722
+1993,Marketing,F,84722
+1994,Marketing,F,85722
+1995,Marketing,F,86722
+1995,Marketing,M,87722
+1996,Marketing,M,88722
+1997,Marketing,M,89722
+1996,Marketing,F,90722
+1993,Marketing,F,78950
+1994,Marketing,F,80950
+1995,Marketing,F,82950
+1994,Marketing,M,92165
+1991,Marketing,M,92165
+1992,Marketing,M,94165
+1993,Marketing,M,96165
+1997,Marketing,F,70500
+1998,Marketing,F,83000
+1999,Marketing,F,84000
+1998,Marketing,M,65478
+1999,Marketing,M,68788
+1990,Finance,M,67827
+1991,Finance,M,68195
+1992,Finance,M,70253
+1993,Finance,M,72727
+1994,Finance,M,75335
+1995,Finance,M,78173
+1996,Finance,M,82066
+1997,Finance,M,82152
+1998,Finance,M,86440
+1999,Finance,M,86394
+2000,Finance,M,93298
+2001,Finance,M,93443
+1990,Finance,F,62593
+1991,Finance,F,63447
+1992,Finance,F,67322
+1993,Finance,F,67761
+1994,Finance,F,68166
+1995,Finance,F,71652
+1996,Finance,F,71375
+1997,Finance,F,75708
+1998,Finance,F,79782
+1999,Finance,F,79679
+2000,Finance,F,80423
+2001,Finance,F,82594
+2002,Finance,F,83457
+1993,Finance,F,83457
+1994,Finance,F,84457
+1995,Finance,F,83458
+1995,Finance,F,84458
+1995,Finance,M,83459
+1996,Finance,M,84459
+1997,Finance,M,83460
+1994,Finance,M,84460
+1997,Finance,M,88008
+1998,Finance,M,89008
+1999,Finance,M,90008
+1997,Finance,M,88500
+1998,Finance,M,82687
+1999,Finance,M,83687
+2000,Finance,M,84687
+1995,Finance,F,85687
+1996,Finance,M,86687
+1997,Finance,M,87687
+1998,Finance,M,88687
+1993,Finance,M,65000
+1993,Finance,M,66000
+1994,Finance,M,67057
+1995,Finance,M,68458
+1998,Finance,M,85854
+1999,Finance,M,89985
+1998,Finance,M,90912
+1999,Finance,M,91500
+2000,Finance,M,92000
+1990,Human Resources,F,59629
+1991,Human Resources,F,60356
+1992,Human Resources,F,63677
+1993,Human Resources,F,63190
+1994,Human Resources,F,64652
+1995,Human Resources,F,66530
+1996,Human Resources,F,67423
+1997,Human Resources,F,70638
+1998,Human Resources,F,72240
+1999,Human Resources,F,74584
+2000,Human Resources,F,77367
+2001,Human Resources,F,79229
+1990,Human Resources,F,49547
+1991,Human Resources,F,50122
+1992,Human Resources,F,49867
+1993,Human Resources,F,51472
+1994,Human Resources,F,55445
+1995,Human Resources,F,55733
+1996,Human Resources,F,57431
+1997,Human Resources,F,58932
+1998,Human Resources,F,59259
+1999,Human Resources,F,61684
+2000,Human Resources,F,62596
+2001,Human Resources,F,62276
+2002,Human Resources,F,65400
+1994,Human Resources,M,53103
+1993,Human Resources,M,57107
+1994,Human Resources,M,57746
+1995,Human Resources,M,59635
+1996,Human Resources,M,61068
+1995,Human Resources,M,60662
+1996,Human Resources,M,64359
+1997,Human Resources,M,67666
+1997,Human Resources,M,68814
+1993,Human Resources,F,68983
+1994,Human Resources,F,70657
+1995,Human Resources,F,73083
+1995,Human Resources,M,61615
+1992,Human Resources,F,62437
+1993,Human Resources,F,62645
+1994,Human Resources,F,63870
+1995,Human Resources,F,64205
+1992,Human Resources,M,67927
+1993,Human Resources,M,67680
+1994,Human Resources,M,70676
+1994,Human Resources,F,65000
+1997,Human Resources,F,66000
+1997,Human Resources,M,82654
+1993,Human Resources,F,72345
+1999,Human Resources,F,75345
+2000,Human Resources,F,78345
+1990,Production,F,52603
+1991,Production,F,56607
+1992,Production,F,57246
+1993,Production,F,59135
+1994,Production,F,60568
+1995,Production,F,60162
+1996,Production,F,63859
+1997,Production,F,67166
+1998,Production,F,68314
+1999,Production,F,68483
+2000,Production,F,70157
+2001,Production,F,72583
+1990,Production,F,61115
+1991,Production,F,61937
+1992,Production,F,62145
+1993,Production,F,63370
+1994,Production,F,63705
+1995,Production,F,67427
+1996,Production,F,67180
+1997,Production,F,70176
+1998,Production,F,72174
+1999,Production,F,73754
+2000,Production,F,73864
+2001,Production,F,75121
+1990,Production,M,45922
+1991,Production,M,47117
+1992,Production,M,47794
+1993,Production,M,51381
+1994,Production,M,56926
+1995,Production,M,59028
+1996,Production,M,59528
+1997,Production,M,59530
+1998,Production,M,60960
+1999,Production,M,62207
+2000,Production,M,69392
+2001,Production,M,71995
+1992,Production,M,40000
+1993,Production,M,40762
+1994,Production,M,45236
+1995,Production,M,45891
+1996,Production,M,46304
+1997,Production,M,46862
+1998,Production,M,48053
+1999,Production,M,53868
+2000,Production,M,58773
+2001,Production,M,58978
+2002,Production,M,61654
+1991,Production,M,63707
+1990,Production,M,70892
+1991,Production,M,73495
+1992,Production,M,41500
+1993,Production,M,42262
+1991,Production,M,46736
+1990,Production,M,47391
+1991,Production,M,47804
+1992,Production,M,48362
+1993,Production,M,49553
+1994,Production,M,55368
+1992,Production,M,60273
+1993,Production,M,60478
+1993,Production,M,63154
+1994,Production,M,65207
+1995,Production,M,72392
+1996,Production,M,74995
+1997,Production,M,43000
+1998,Production,M,43762
+1996,Production,M,48236
+1995,Production,F,48891
+1996,Production,F,49304
+1997,Production,F,49862
+1998,Production,F,51053
+1998,Production,M,64050
+1999,Production,M,66050
+1990,Development,M,56962
+1991,Development,M,59070
+1992,Development,M,62206
+1993,Development,M,64431
+1994,Development,M,69656
+1995,Development,M,73698
+1996,Development,M,76013
+1997,Development,M,77056
+1998,Development,M,76614
+1999,Development,M,74350
+2000,Development,M,78285
+2001,Development,M,77903
+1990,Development,F,48535
+1991,Development,F,50276
+1992,Development,F,53205
+1993,Development,F,57384
+1994,Development,F,56966
+1995,Development,F,59878
+1996,Development,F,62829
+1997,Development,F,63249
+1998,Development,F,63487
+1999,Development,F,66307
+2000,Development,F,70300
+2001,Development,F,74510
+1990,Development,M,79785
+1994,Development,M,79403
+1995,Development,M,50035
+1996,Development,M,51776
+1997,Development,M,54705
+1998,Development,M,58884
+1997,Development,F,58466
+1999,Development,M,61378
+1993,Development,M,64329
+1994,Development,M,64749
+1995,Development,M,64987
+1996,Development,M,67807
+1997,Development,M,71800
+1992,Development,M,76010
+1994,Development,F,81285
+1995,Development,F,80903
+1996,Development,F,51535
+1997,Development,F,53276
+1998,Development,F,56205
+1995,Development,F,60384
+1995,Development,M,59966
+1996,Development,M,62878
+1997,Development,M,65829
+1998,Development,M,66249
+1992,Development,F,64531
+1995,Development,F,65854
+1997,Development,F,67898
+1999,Development,F,69846
+1998,Development,F,70554
+1999,Development,F,72654
+2000,Development,F,75654
+1990,Quality Management,F,78503
+1991,Quality Management,F,81267
+1992,Quality Management,F,81256
+1993,Quality Management,F,85203
+1994,Quality Management,F,85990
+1995,Quality Management,F,87997
+1996,Quality Management,F,87949
+1997,Quality Management,F,91012
+1998,Quality Management,F,90529
+1999,Quality Management,F,90487
+2000,Quality Management,F,92779
+2001,Quality Management,F,93193
+1990,Quality Management,F,42398
+1991,Quality Management,F,43017
+1992,Quality Management,F,44539
+1993,Quality Management,F,48835
+1994,Quality Management,F,50072
+1995,Quality Management,F,54169
+1996,Quality Management,F,55726
+1997,Quality Management,F,59701
+1998,Quality Management,F,63715
+1999,Quality Management,F,64237
+2000,Quality Management,F,65921
+2001,Quality Management,F,69671
+2002,Quality Management,F,72432
+1990,Quality Management,F,62279
+1991,Quality Management,F,66053
+1992,Quality Management,F,66942
+1993,Quality Management,F,69751
+1994,Quality Management,F,70257
+1995,Quality Management,F,72277
+1996,Quality Management,F,74254
+1997,Quality Management,F,76583
+1998,Quality Management,F,76174
+1999,Quality Management,F,77088
+2000,Quality Management,F,77384
+2001,Quality Management,F,77626
+1990,Quality Management,M,49012
+1991,Quality Management,M,49045
+1992,Quality Management,M,52367
+1993,Quality Management,M,54681
+1994,Quality Management,M,58346
+1995,Quality Management,M,61984
+1996,Quality Management,M,64647
+1997,Quality Management,M,68172
+1998,Quality Management,M,67061
+1999,Quality Management,M,67367
+2000,Quality Management,M,74035
+2001,Quality Management,M,75518
+2002,Quality Management,M,77876
+1994,Quality Management,M,78376
+1993,Quality Management,F,79900
+1994,Quality Management,F,81051
+1995,Quality Management,F,81606
+1996,Quality Management,F,82106
+1991,Quality Management,M,82606
+1990,Quality Management,M,79900
+1991,Quality Management,M,81051
+1992,Quality Management,M,81606
+1993,Quality Management,M,82106
+1996,Quality Management,F,82606
+1993,Quality Management,F,79900
+1994,Quality Management,F,81051
+1995,Quality Management,F,81606
+1996,Quality Management,F,82106
+1997,Quality Management,F,82606
+1994,Quality Management,F,83106
+1991,Quality Management,M,79900
+1992,Quality Management,M,81051
+1993,Quality Management,M,81606
+1994,Quality Management,M,82106
+1995,Quality Management,M,82606
+1994,Quality Management,M,79900
+1995,Quality Management,M,81051
+1996,Quality Management,M,81606
+1997,Quality Management,M,82106
+1992,Quality Management,F,82606
+1990,Quality Management,M,83106
+1993,Quality Management,M,83606
+1994,Quality Management,M,81051
+1995,Quality Management,M,81606
+1997,Quality Management,M,84306
+1998,Quality Management,M,81751
+1999,Quality Management,M,82306
+1990,Sales,M,79900
+1991,Sales,M,81051
+1992,Sales,M,81606
+1993,Sales,M,85997
+1994,Sales,M,90575
+1995,Sales,M,92441
+1996,Sales,M,92286
+1997,Sales,M,93704
+1998,Sales,M,95487
+1999,Sales,M,94765
+2000,Sales,M,100290
+2001,Sales,M,100873
+1990,Sales,M,82205
+1991,Sales,M,83536
+1992,Sales,M,86775
+1993,Sales,M,86880
+1994,Sales,M,92709
+1995,Sales,M,94207
+1996,Sales,M,93907
+1997,Sales,M,96790
+1998,Sales,M,99726
+1999,Sales,M,100072
+2000,Sales,M,104766
+2001,Sales,M,106987
+1992,Sales,M,79900
+1994,Sales,M,81051
+1995,Sales,M,81606
+1996,Sales,M,85997
+1997,Sales,M,90575
+1994,Sales,M,92441
+1993,Sales,M,92286
+1994,Sales,M,93704
+1995,Sales,M,95487
+1996,Sales,M,94765
+1997,Sales,M,100290
+1996,Sales,M,100873
+1995,Sales,M,82205
+1997,Sales,F,83536
+1998,Sales,F,86775
+1999,Sales,F,86880
+2000,Sales,F,92709
+1993,Sales,F,94207
+1995,Sales,M,93907
+1996,Sales,M,96790
+1997,Sales,M,99726
+1998,Sales,M,100072
+1999,Sales,M,104766
+1991,Sales,F,106987
+1992,Sales,M,90234
+1993,Sales,M,91234
+1994,Sales,M,92234
+1995,Sales,M,93234
+1996,Sales,M,94234
+1990,Sales,M,85234
+1991,Sales,M,85238
+1992,Sales,M,85888
+1993,Sales,M,86538
+1994,Sales,M,87188
+1995,Sales,F,84485
+1991,Sales,M,77654
+1992,Sales,M,78654
+1993,Sales,M,79654
+1994,Sales,M,80654
+1999,Sales,M,83654
+1995,Sales,F,64535
+2000,Sales,F,68543
+1990,Research,M,83722
+1991,Research,M,84159
+1992,Research,M,84862
+1993,Research,M,84867
+1994,Research,M,90959
+1995,Research,M,92902
+1996,Research,M,96538
+1997,Research,M,99457
+1998,Research,M,102032
+1999,Research,M,101416
+2000,Research,M,104971
+2001,Research,M,108244
+1990,Research,F,52484
+1991,Research,F,55619
+1992,Research,F,59574
+1993,Research,F,62784
+1994,Research,F,63875
+1995,Research,F,66978
+1996,Research,F,70649
+1997,Research,F,71234
+1998,Research,F,73020
+1999,Research,F,76352
+2000,Research,F,78032
+2001,Research,F,78961
+2002,Research,F,79393
+1996,Research,F,72000
+1997,Research,M,79393
+1998,Research,M,80193
+1999,Research,M,80993
+1992,Research,M,81793
+1994,Research,M,82593
+1995,Research,M,83393
+1996,Research,M,84193
+1994,Research,F,65012
+1995,Research,F,65737
+1996,Research,F,66462
+1993,Research,F,67187
+1996,Research,M,79393
+1997,Research,M,80193
+1998,Research,M,80993
+1995,Research,M,81793
+1996,Research,M,82593
+1997,Research,M,83393
+1997,Research,M,84193
+1993,Research,M,84993
+1994,Research,M,85793
+1995,Research,M,86593
+1996,Research,F,71564
+1999,Research,F,75432
+2001,Research,F,77584
+1990,Customer Service,F,54618
+1991,Customer Service,F,55108
+1992,Customer Service,F,58465
+1993,Customer Service,F,58423
+1994,Customer Service,F,62441
+1995,Customer Service,F,62541
+1996,Customer Service,F,64553
+1997,Customer Service,F,66715
+1998,Customer Service,F,69217
+1999,Customer Service,F,72573
+2000,Customer Service,F,72421
+2001,Customer Service,F,73953
+1990,Customer Service,F,44026
+1991,Customer Service,F,48315
+1992,Customer Service,F,48079
+1993,Customer Service,F,48181
+1994,Customer Service,F,48273
+1995,Customer Service,F,49770
+1996,Customer Service,F,51900
+1997,Customer Service,F,52121
+1998,Customer Service,F,54187
+1999,Customer Service,F,54138
+2000,Customer Service,F,54183
+2001,Customer Service,F,57946
+2002,Customer Service,F,58189
+1991,Customer Service,F,53846
+1992,Customer Service,F,54158
+1993,Customer Service,F,57342
+1994,Customer Service,F,59020
+1995,Customer Service,F,61093
+1996,Customer Service,F,64189
+1997,Customer Service,F,66104
+1998,Customer Service,F,66678
+1999,Customer Service,F,67470
+2000,Customer Service,F,70158
+2001,Customer Service,F,71406
+1990,Customer Service,M,40285
+1991,Customer Service,M,40514
+1992,Customer Service,M,44046
+1993,Customer Service,M,48317
+1994,Customer Service,M,51325
+1995,Customer Service,M,51905
+1996,Customer Service,M,53555
+1997,Customer Service,M,54812
+1998,Customer Service,M,53051
+1999,Customer Service,M,57454
+2000,Customer Service,M,63698
+2001,Customer Service,M,63968
+2002,Customer Service,M,63745
+1996,Customer Service,M,79393
+1997,Customer Service,M,79758
+1998,Customer Service,M,80123
+1992,Customer Service,M,80488
+1993,Customer Service,M,80853
+1994,Customer Service,M,81218
+1994,Customer Service,F,66715
+1991,Customer Service,M,79393
+1992,Customer Service,M,79758
+1993,Customer Service,M,80123
+1995,Customer Service,F,66715
+1994,Customer Service,F,86715
+1995,Customer Service,M,79393
+1996,Customer Service,M,79758
+1997,Customer Service,M,80123
+1998,Customer Service,M,80488
+1996,Customer Service,M,79393
+1997,Customer Service,F,69758
+1992,Customer Service,M,79393
+1993,Customer Service,M,79758
+1994,Customer Service,M,80123
+1993,Customer Service,F,62500
+1990,Customer Service,F,63124
+1994,Customer Service,M,79393
+1995,Customer Service,M,79758
+1996,Customer Service,M,80123
+1998,Customer Service,M,80000
+1998,Customer Service,F,81354
+1999,Customer Service,F,83546
+1999,Customer Service,F,64853
+2000,Customer Service,F,68654
+2001,Customer Service,F,71546
+2000,Customer Service,F,59867
+2002,Customer Service,F,57896
+2000,Customer Service,M,91546
+2004,Customer Service,M,94556
